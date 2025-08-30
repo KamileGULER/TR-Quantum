@@ -19,7 +19,7 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
 1. [Temel Kavramlar](01-temel-kavramlar/)  
    - [Qubit](01-temel-kavramlar/Qubit.ipynb)
    - [Süperpozisyon](01-temel-kavramlar/Süperpozisyon.ipynb)
-   - [Dolanıklık](01-temel-kavramlar/dolaniklik.ipynb)  
+   - [Dolanıklık](01-temel-kavramlar/Dolanıklık.ipynb)  
    - [Matematiksel Altyapı](01-temel-kavramlar/matematik.ipynb)  
    - [Kuantum Kapıları ve Devreler](01-temel-kavramlar/kapilar.ipynb)  
    - [Ölçüm ve Olasılık](01-temel-kavramlar/olcum.ipynb)  
