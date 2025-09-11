@@ -93,6 +93,7 @@ Kuantum hesaplama üzerine güncel akademik yayınlar
 👥 Katılımcılar
 Bu proje aşağıdaki katılımcılar tarafından geliştirilmiştir:
 
+- [Dr. Öğr. Üyesi İsa AVCI](https://github.com/iavci1981)
 - [Kamile GÜLER](https://github.com/KamileGULER)
 - [Yahya Zakrya Khan](https://github.com/Yahya3mn)
 - [Aslıhan İnan](https://github.com/AslihanINAN)
