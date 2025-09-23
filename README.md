@@ -25,7 +25,7 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
      - [Süper Yoğun Kodlama](01-temel-kavramlar/Dolanıklık/SüperYoğunKodlama.ipynb)
    - [Matematiksel Altyapı](01-temel-kavramlar/MatematikselAltyapı/)
      - [Giriş](01-temel-kavramlar/MatematikselAltyapı/matematiğeGiriş.ipynb)
-     - [Linner Cebir](01-temel-kavramlar/MatematikselAltyapı/linnerCebir.ipynb)
+     - [Linner Cebir](01-temel-kavramlar/MatematikselAltyapı/lineerCebir.ipynb)
      - [Karmaşık Sayılar](01-temel-kavramlar/MatematikselAltyapı/karmasıkSayılar.ipynb)
      - [Olasılık](01-temel-kavramlar/MatematikselAltyapı/Olasılık.ipynb)
      - [Analizde Gerekli Kavramlar](01-temel-kavramlar/MatematikselAltyapı/analizGerekliKavramlar.ipynb)
