@@ -34,10 +34,19 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
      - [Bölüm Özeti](01-temel-kavramlar/MatematikselAltyapı/matematikÖzet.ipynb)
      - [Bölüm Terimler Sözlüğü](01-temel-kavramlar/MatematikselAltyapı/matematikselAltyapıSözlük.ipynb)
 
-   - [Kuantum Kapıları ve Devreler](01-temel-kavramlar/Kapilar.ipynb)  
+   - [Kuantum Kapıları ve Devreler](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+     -[Kapı ve Devreler Giriş](01-temel-kavramlar/KuantumKapılarıveDevreler/kapıveDevrelerGiriş.ipynb)
+     -[Kapı ve Devreler Giriş](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+     -[Tek Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/tekQubitKapıları.ipynb)
+     -[](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+     -[](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+     -[](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+     -[](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+
+
    - [Ölçüm ve Olasılık](01-temel-kavramlar/Ölcum.ipynb)  
 
-2. [Kuantum Algoritmaları](02-KuantumAlgoritmaları)  
+3. [Kuantum Algoritmaları](02-KuantumAlgoritmaları)  
    - [Deutsch–Jozsa Algoritması](02-KuantumAlgoritmaları/DeutschJozsa.ipynb)  
    - [Grover Algoritması](02-KuantumAlgoritmaları/Grover.ipynb)  
    - [Shor Algoritması](02-KuantumAlgoritmaları/Shor.ipynb)  
@@ -46,13 +55,13 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
    - [Kuantum Faz Tahmini](02-KuantumAlgoritmaları/QPhaseEstimation.ipynb)
    - [VQE & QAOA](02-KuantumAlgoritmaları/vqe-qaoa.ipynb)
 
-3. [Uygulama Örnekleri](03-uygulamalar/)  
+4. [Uygulama Örnekleri](03-uygulamalar/)  
    - [Qiskit ile Başlangıç](03-uygulamalar/qiskit-giris.ipynb)  
    - [Kriptografi Uygulamaları](03-uygulamalar/kriptografi.ipynb)  
    - [Optimizasyon Problemleri](03-uygulamalar/optimizasyon.ipynbd)  
    - [Kuantum Makine Öğrenmesi (QML)](03-uygulamalar/qml.ipynb)  
 
-4. [Kaynaklar ve Ekler](04-kaynaklar/)  
+5. [Kaynaklar ve Ekler](04-kaynaklar/)  
    - [Terimler Sözlüğü](04-kaynaklar/sozluk.ipynb)  
    - [Kitaplar](04-kaynaklar/kitaplar.ipynb)  
    - [Makaleler](04-kaynaklar/makaleler.ipynb)  
