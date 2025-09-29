@@ -38,12 +38,8 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
      - [Kapı ve Devreler Giriş](01-temel-kavramlar/KuantumKapılarıveDevreler/kapıveDevrelerGiriş.ipynb)
      - [Tek Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/tekQubitKapıları.ipynb)
      - [İki Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/ikiQubitliKapılar.ipynb)
-     - [](01-temel-kavramlar/KuantumKapılarıveDevreler/)
-     - [](01-temel-kavramlar/KuantumKapılarıveDevreler/)
-     - [](01-temel-kavramlar/KuantumKapılarıveDevreler/)
-
-
-   - [Ölçüm ve Olasılık](01-temel-kavramlar/Ölcum.ipynb)  
+     - [Çok Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/cokQubitKapıları.ipynb)
+     - [Bölüm Özeti ve Sözlük](01-temel-kavramlar/KuantumKapılarıveDevreler/kapılarÖzetveSözlük.ipynb)
 
 3. [Kuantum Algoritmaları](02-KuantumAlgoritmaları)  
    - [Deutsch–Jozsa Algoritması](02-KuantumAlgoritmaları/DeutschJozsa.ipynb)  
