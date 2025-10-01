@@ -58,41 +58,9 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
 
 5. [Kaynaklar ve Ekler](04-kaynaklar/)  
    - [Terimler Sözlüğü](04-kaynaklar/sozluk.ipynb)  
-   - [Kaynakça](04-kaynaklar/kaynakça.bib)  
+   - [Kaynakça](04-kaynaklar/Kaynakça.bib)  
 
 ---
-
-🗺️ Yol Haritası (Roadmap)
-Bu proje aşamalı olarak geliştirilecektir. Hedeflenen adımlar şunlardır:
-
-1. Aşama – Temel Kavramlar ✅ (devam ediyor)
-Qubit, süperpozisyon ve dolanıklık konularının eklenmesi
-
-Kuantum kapıları ve ölçüm örneklerinin hazırlanması
-
-Matematiksel altyapı (lineer cebir, Dirac notasyonu)
-
-2. Aşama – Kuantum Algoritmaları
-Deutsch–Jozsa, Grover ve Shor algoritmalarının açıklanması
-
-Kuantum Fourier Dönüşümü (QFT) örnekleri
-
-VQE ve QAOA gibi hibrit algoritmalar
-
-3. Aşama – Uygulama Örnekleri
-Qiskit ile temel devreler
-
-Kriptografi ve optimizasyon uygulamaları
-
-Kuantum makine öğrenmesi (QML) örnekleri
-
-4. Aşama – Ekler ve Kaynaklar
-Terimler sözlüğü (Türkçe–İngilizce karşılıklar)
-
-Güncel akademik makaleler listesi
-
-Online eğitim platformları bağlantıları
-
 
 📖 Önerilen Kaynaklar
 M. A. Nielsen & I. L. Chuang – Quantum Computation and Quantum Information
