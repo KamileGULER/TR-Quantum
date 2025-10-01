@@ -58,9 +58,7 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
 
 5. [Kaynaklar ve Ekler](04-kaynaklar/)  
    - [Terimler Sözlüğü](04-kaynaklar/sozluk.ipynb)  
-   - [Kitaplar](04-kaynaklar/kitaplar.ipynb)  
-   - [Makaleler](04-kaynaklar/makaleler.ipynb)  
-   - [Online Eğitim Kaynakları](04-kaynaklar/online-egitim.ipynb)  
+   - [Kaynakça](04-kaynaklar/kaynakça.bib)  
 
 ---
 
