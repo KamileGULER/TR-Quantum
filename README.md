@@ -57,7 +57,7 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
    - [Kuantum Makine Öğrenmesi (QML)](03-uygulamalar/qml.ipynb)  
 
 5. [Kaynaklar ve Ekler](04-kaynaklar/)  
-   - [Terimler Sözlüğü](04-kaynaklar/sozluk.ipynb)  
+   - [Terimler Sözlüğü](04-kaynaklar/Sözlük.ipynb)  
    - [Kaynakça](04-kaynaklar/Kaynakça.bib)  
 
 ---
